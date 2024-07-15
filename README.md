@@ -1,4 +1,4 @@
-<!--![banner](git-header.jpeg)-->
+![banner](git-header.jpeg)
 
 - 👋 Hi, I’m @yasith46
 - 👀 I’m interested in Machine Learning, Embedded Systems, IoT and Robotics
