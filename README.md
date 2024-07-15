@@ -1,3 +1,5 @@
+![banner](git-header.jpeg)
+
 - 👋 Hi, I’m @yasith46
 - 👀 I’m interested in Machine Learning, Embedded Systems, IoT and Robotics
 - 🌱 I’m currently learning Electronic and Telecommunications Engineering at University of Moratuwa, Sri Lanka
