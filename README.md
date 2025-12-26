@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yasith46
-- 👀 I’m interested in Digital Systems Design, Embedded Systems, IoT and Machine Learning
+- 👀 I’m interested in Embedded Systems, PCB Design IoT, Digital Systems Design, and Machine Learning
 - 🌱 I’m currently following Electronics and Telecommunications Engineering at University of Moratuwa, Sri Lanka
 - 💞️ I’m looking to collaborate on Digital Systems Designs, Embedded Systems and IoT related projects
 - 📫 How to reach me: Shoot me an email at 📧 yasithudana3@gmail.com or send me a Twitter DM at 🐤[@heyimyudi](https://twitter.com/heyimyudi)
